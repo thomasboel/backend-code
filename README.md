@@ -10,4 +10,4 @@ Run the project with `npm start`.
 
 Create a build with `npm run build`.
 
-Deploy to Web Server and point root directory to the created `build` directory.
+Deploy the created `build` directory to hosting solution and point the root directory on the Web Server to the `build` directory.
