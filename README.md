@@ -2,7 +2,7 @@
 
 This is a backend application built with the Express framework with TypeScript.  
 
-The project makes use of the Controller-Service-Repository pattern and you will find that the directory names reflect these.
+The project makes use of the Controller-Service-Repository pattern and you will find that the directory names inside the `src` directory reflect these.
 
 # Setup & Development
 
